@@ -28,7 +28,7 @@ class deteccion_correlaciones:
      
 
     # y es el valor que hay que meter dependiendo de las variables que se tenga 
-    def histogramas(self,datos, y, z): #datos tiene que ser el resultado de la función variables_mas_importantes 
+    def histogramas(self,datos): #datos tiene que ser el resultado de la función variables_mas_importantes 
         df_histogramas = self.df[datos]
         df_histogramas.hist(bins = 100, color='#5485E6',figsize=(25, 10))
 
