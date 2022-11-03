@@ -1,4 +1,3 @@
-# libreria_miren_paula
 Esta librería sirve a la hora de comprender y analizar los datos de uno para la realización de un modelo de clasificación binaria. Para ello, detecta aquellas variables que están muy correlacinadas entre sí y elimina una por cada pareja. Además, también se analizan aquellas variables que están fuertemente relacionadas con la variable objetivo.
 
 A continuación se va adjuntar aquellos comandos que se necesitan para su instalación y futuro uso. También, se explican la manera de utilizar la librería y todas sus funciones.
